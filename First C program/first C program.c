@@ -1,4 +1,4 @@
-//write a program that prints my program behavior
+//write a program that prints it's a first C program
 #include<stdio.h>
 int main()
 {
